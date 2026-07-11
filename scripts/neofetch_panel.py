@@ -32,7 +32,7 @@ ANSI = ("#16233d", "#ff6b81", "#69db7c", "#ffd43b",
         "#7cc4ff", "#b197fc", "#66d9e8", "#e7f0fb")
 
 # -------------------------------------------------------------- contents ---
-USER_AT_HOST = ("sai", "fort-collins")
+HEADER = "Sai Praneeth Medisetti"
 INFO = [
     ("Role", "Business & Data Analyst"),
     ("Education", "MCIS, Colorado State University '26"),
@@ -58,8 +58,7 @@ def esc(s: str) -> str:
 
 
 def build_svg() -> str:
-    user, host = USER_AT_HOST
-    header_len = len(user) + 1 + len(host)
+    header_len = len(HEADER)
     longest = max(
         [header_len] + [len(k) + 2 + len(v) for k, v in INFO]
     )
@@ -93,7 +92,7 @@ def build_svg() -> str:
         f'Business and Data Analyst, MCIS Colorado State University 2026, '
         f'SQL Python Power BI Excel, open to full-time roles" '
         f'xml:space="preserve">',
-        "<title>sai@fort-collins — profile panel</title>",
+        "<title>Sai Praneeth Medisetti — profile panel</title>",
         f"<style>{style}</style>",
         f'<rect x="0.5" y="0.5" width="{svg_w - 1}" height="{svg_h - 1}" '
         f'rx="10" fill="{BG}" stroke="{BORDER}"/>',
@@ -109,11 +108,9 @@ def build_svg() -> str:
         return (f'<text class="f" x="{PAD_X}" y="{y}" '
                 f'style="animation-delay:{delay}s">{inner}</text>')
 
-    # sai@fort-collins
+    # Header: full name in bold ice-blue
     parts.append(line(0,
-        f'<tspan fill="{KEY}" font-weight="bold">{esc(user)}</tspan>'
-        f'<tspan fill="{VAL}">@</tspan>'
-        f'<tspan fill="{KEY}" font-weight="bold">{esc(host)}</tspan>'))
+        f'<tspan fill="{KEY}" font-weight="bold">{esc(HEADER)}</tspan>'))
     # ----------------
     parts.append(line(1, f'<tspan fill="{DIM}">{"-" * header_len}</tspan>'))
     # Key: value rows
