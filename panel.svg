@@ -1,0 +1,40 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 555 254" width="555" height="254" role="img" aria-label="Terminal info panel for Sai Praneeth Medisetti: Business and Data Analyst, MCIS Colorado State University 2026, SQL Python Power BI Excel, open to full-time roles" xml:space="preserve">
+<title>sai@fort-collins — profile panel</title>
+<style>
+    text {
+      font-family: 'SFMono-Regular', Consolas, 'Liberation Mono', Menlo, 'Courier New', monospace;
+      font-size: 13px;
+      white-space: pre;
+    }
+    .f { animation: fadein 0.5s ease-out both; }
+    @keyframes fadein {
+      from { opacity: 0; }
+      to   { opacity: 1; }
+    }
+    @media (prefers-reduced-motion: reduce) {
+      .f { animation: none; }
+    }
+    </style>
+<rect x="0.5" y="0.5" width="554" height="253" rx="10" fill="#0a1220" stroke="#1c2f4d"/>
+<circle cx="24" cy="22" r="5" fill="#2b4a72"/>
+<circle cx="42" cy="22" r="5" fill="#3f6ea6"/>
+<circle cx="60" cy="22" r="5" fill="#7cc4ff"/>
+<text class="f" x="24" y="52" style="animation-delay:0.1s"><tspan fill="#7cc4ff" font-weight="bold">sai</tspan><tspan fill="#d5e6fb">@</tspan><tspan fill="#7cc4ff" font-weight="bold">fort-collins</tspan></text>
+<text class="f" x="24" y="73" style="animation-delay:0.22s"><tspan fill="#33507a">----------------</tspan></text>
+<text class="f" x="24" y="94" style="animation-delay:0.34s"><tspan fill="#7cc4ff" font-weight="bold">Role:</tspan><tspan fill="#d5e6fb"> Business &amp; Data Analyst</tspan></text>
+<text class="f" x="24" y="115" style="animation-delay:0.46s"><tspan fill="#7cc4ff" font-weight="bold">Education:</tspan><tspan fill="#d5e6fb"> MCIS, Colorado State University '26</tspan></text>
+<text class="f" x="24" y="136" style="animation-delay:0.58s"><tspan fill="#7cc4ff" font-weight="bold">Stack:</tspan><tspan fill="#d5e6fb"> SQL · Python · Power BI · Excel</tspan></text>
+<text class="f" x="24" y="157" style="animation-delay:0.7s"><tspan fill="#7cc4ff" font-weight="bold">Focus:</tspan><tspan fill="#d5e6fb"> dashboards, process improvement, decisions from messy data</tspan></text>
+<text class="f" x="24" y="178" style="animation-delay:0.82s"><tspan fill="#7cc4ff" font-weight="bold">Portfolio:</tspan><tspan fill="#d5e6fb"> saipraneeth2.github.io</tspan></text>
+<text class="f" x="24" y="199" style="animation-delay:0.94s"><tspan fill="#7cc4ff" font-weight="bold">Status:</tspan><tspan fill="#d5e6fb"> open to full-time roles</tspan></text>
+<g class="f" style="animation-delay:1.06s">
+<rect x="24" y="216" width="24" height="14" rx="2" fill="#16233d"/>
+<rect x="54" y="216" width="24" height="14" rx="2" fill="#ff6b81"/>
+<rect x="84" y="216" width="24" height="14" rx="2" fill="#69db7c"/>
+<rect x="114" y="216" width="24" height="14" rx="2" fill="#ffd43b"/>
+<rect x="144" y="216" width="24" height="14" rx="2" fill="#7cc4ff"/>
+<rect x="174" y="216" width="24" height="14" rx="2" fill="#b197fc"/>
+<rect x="204" y="216" width="24" height="14" rx="2" fill="#66d9e8"/>
+<rect x="234" y="216" width="24" height="14" rx="2" fill="#e7f0fb"/>
+</g>
+</svg>

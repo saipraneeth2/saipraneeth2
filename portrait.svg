@@ -1,0 +1,70 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 392 527" width="392" height="527" role="img" aria-label="ASCII art portrait of Sai Praneeth Medisetti" xml:space="preserve">
+<title>ASCII portrait — Sai Praneeth Medisetti</title>
+<style>
+    text {
+      font-family: 'SFMono-Regular', Consolas, 'Liberation Mono', Menlo, 'Courier New', monospace;
+      font-size: 10px;
+      fill: #7cc4ff;
+      white-space: pre;
+    }
+    .r { animation: type 0.45s steps(24, end) both; }
+    #cur { fill: #7cc4ff; animation: blink 1.2s infinite; }
+    @keyframes type {
+      from { clip-path: inset(-2px 100% -2px -2px); }
+      to   { clip-path: inset(-2px -2px -2px -2px); }
+    }
+    @keyframes blink {
+      0%, 49% { opacity: 1; }
+      50%, 100% { opacity: 0; }
+    }
+    @media (prefers-reduced-motion: reduce) {
+      .r, #cur { animation: none; }
+    }
+    </style>
+<rect x="0.5" y="0.5" width="391" height="526" rx="10" fill="#0a1220" stroke="#1c2f4d"/>
+<text class="r" x="16" y="25" style="animation-delay:0.15s">=+;iii+xxi+i:;;:.:;ix*=*=i;;i*****x*****x%x%#%x;;xx%+:;+*=**</text>
+<text class="r" x="16" y="36" style="animation-delay:0.2s">;:;;ii;i::;:''::::;;::;;:=*++*=*x*=****=x%xx*x#*i=*+iii+*%xx</text>
+<text class="r" x="16" y="47" style="animation-delay:0.25s">:.'':::;;;;:''';+i::';+ii*x=*****==*x*x**%#%x*%**i+=iiiii*xx</text>
+<text class="r" x="16" y="58" style="animation-delay:0.3s">i+i;;;;ii;+====+*%%%xxxx*===**=**====**=*%%%xx**x++#%x=ii+**</text>
+<text class="r" x="16" y="69" style="animation-delay:0.35s">;ii;;:::;;;i=;ix***=+;;=****=*=*x%==++++*xxx%%**=+;i=**+=**x</text>
+<text class="r" x="16" y="80" style="animation-delay:0.4s">ii:::;:;i'''..';;:'''i+===**====**====+==xxx%x=+++i=*x*++x**</text>
+<text class="r" x="16" y="91" style="animation-delay:0.45s">::::::;+=:'''':.';ii+***=**===+++====**=+xxxxx++++x%%%*%*==*</text>
+<text class="r" x="16" y="102" style="animation-delay:0.5s">:;;:i=**=:':;:i++*##x*x****=*++++*=++++==***xx***xxxx*=xxx**</text>
+<text class="r" x="16" y="113" style="animation-delay:0.55s">':;:;=xxxii=++====*%xxxx=*==*+i+=*=+==++**xxxxxxxx=+++++ii;+</text>
+<text class="r" x="16" y="124" style="animation-delay:0.6s">i:.'':ii=+=xxx=**=+=++*x===+*++++x=+=+++=%x*===**++i+=i;;:;;</text>
+<text class="r" x="16" y="135" style="animation-delay:0.65s">;::.'.'::.:ii;iiiii;;i*x===+==+++x*++***=*====++++i;i;;i;'ix</text>
+<text class="r" x="16" y="146" style="animation-delay:0.7s">:'++::'';::::i+;;+++++*x=++=*=++*x=+**xx=**======+i:;:;+ii==</text>
+<text class="r" x="16" y="157" style="animation-delay:0.75s">i+=*+=+=++++++====++==xx=+i+*=+=*x*==+=++xx+++=*+;:';i;+iiii</text>
+<text class="r" x="16" y="168" style="animation-delay:0.8s">*==*+++i:i=====+=+;;;i*x=++=x=++=%==+==ii**++++=;:;;:;:iii++</text>
+<text class="r" x="16" y="179" style="animation-delay:0.85s">i;;i;:;'.;ii+=i;::::;ix%===xx=++=x=====++*=+=+i=+i;:';;i+*=i</text>
+<text class="r" x="16" y="190" style="animation-delay:0.9s">:'.:'::'';++==;;;;++i:::'':;i;i+*%===+*++*=++++**+;;:ii+xx*+</text>
+<text class="r" x="16" y="201" style="animation-delay:0.95s">;:'''::'';++=*;;i;:'....      ..:+==++*=+*=iiii+++*x*i;+%%%=</text>
+<text class="r" x="16" y="212" style="animation-delay:1.0s">i;;;::;:;;i+i+;i'.  ..'''...      'i++=++*=ii+i++x%=i**xxxx*</text>
+<text class="r" x="16" y="223" style="animation-delay:1.05s">i;i;;iii+;;::'''  .:i+==+:'      . .i**++==ii+i+=*++*xx*i;+i</text>
+<text class="r" x="16" y="234" style="animation-delay:1.1s">i;;;ii++;i;:::::''i=*xxx*;'         '**++*=ii+i+i;ix%x*i++i+</text>
+<text class="r" x="16" y="245" style="animation-delay:1.15s">iiiii;i+i;iii+iiii=*=+=+;'   .;+;    i*ii=+;i+;i;+***=ii**=+</text>
+<text class="r" x="16" y="256" style="animation-delay:1.2s">ii;:;;;ii::;;i+=+i;'   :i=+' :+=+    '=ii*=:ii:::ix*+;iii;:i</text>
+<text class="r" x="16" y="267" style="animation-delay:1.25s">+ii;;ii+;;++===;'      +xx=:.i==i     i++=i;;;;;::*%xxi;ii:i</text>
+<text class="r" x="16" y="278" style="animation-delay:1.3s">ii=++==+i+=+===: .=*:';=*=;'.';++.    :+=*xxx*i;i+xx%%+;ii;i</text>
+<text class="r" x="16" y="289" style="animation-delay:1.35s">ii+++*x*=*=++=x%+;i;;;i+i:'..  ;=:    :+%#####%=+==+==+i;;i;</text>
+<text class="r" x="16" y="300" style="animation-delay:1.4s">+==****x=***x*x**=' ''''...    ;+i'    :xx%%#%xx*+++==++++++</text>
+<text class="r" x="16" y="311" style="animation-delay:1.45s">**=*****+==*==x*++i .''      ';i+i:.    ix%%%xxxxx=+=++=+==+</text>
+<text class="r" x="16" y="322" style="animation-delay:1.5s">====***=i+==+=x*=+++.      .:;i+ii=**=+ii=x%%######x=ii+++ii</text>
+<text class="r" x="16" y="333" style="animation-delay:1.55s">*=====*=i+=+=****===+;;;;:'':;i+*%##%x**==x%%########*;;;:;i</text>
+<text class="r" x="16" y="344" style="animation-delay:1.6s">ii+++==++=+++=**=*xxx*ii++;;*xxxxx%%%%%x*=*%%#########xi;;;i</text>
+<text class="r" x="16" y="355" style="animation-delay:1.65s">;;i=++=++=+i+=**=x##%%%%%%i%@########%%xx**%%########%#*;iii</text>
+<text class="r" x="16" y="366" style="animation-delay:1.7s">;:;ii++++*=++===x@######@x*@####%==%#%%xx*=x%%%######%%#i;;+</text>
+<text class="r" x="16" y="377" style="animation-delay:1.75s">;;;;;::i*xx=+++=###@@@#@%*###%#%*=x%%%%%*+=*x%%%%%%%%%x*;:;i</text>
+<text class="r" x="16" y="388" style="animation-delay:1.8s">i++++:'+%%x*=++%########=%#%%###x%xxx%%*i;+*xxxxxxxxx=*=;;;i</text>
+<text class="r" x="16" y="399" style="animation-delay:1.85s">;i+==i+*xx**=:+%x%#####%x####%%x***x%%*+;':i*x**===+++=i::;+</text>
+<text class="r" x="16" y="410" style="animation-delay:1.9s">++ii+ii=xxxx=:*x*%%####%%%%%x*==*xxxx=+++:..':;;;;i+**=+;;;;</text>
+<text class="r" x="16" y="421" style="animation-delay:1.95s">+++iiii*x%x%=i%*=x%%%%xxxx*=+=*xxxxx=+===i:''.';+======+iii;</text>
+<text class="r" x="16" y="432" style="animation-delay:2.0s">ii+ii;i+**=*=+%*+**xxxx*=++=*xx****====*=++ii+i=*xx=+=*==ii;</text>
+<text class="r" x="16" y="443" style="animation-delay:2.05s">+==iiii++ii=+=%*+===*x*++=********=++=**+++iiiii*xx**======+</text>
+<text class="r" x="16" y="454" style="animation-delay:2.1s">=+=+i:;+=+iii%%*++i++++=*x******==++=**=+i;i;;;;*******===*=</text>
+<text class="r" x="16" y="465" style="animation-delay:2.15s">**++i::;i;;;+#%*iii+==**********====*=+;ii':;::i*xx******==+</text>
+<text class="r" x="16" y="476" style="animation-delay:2.2s">iii;;;::;;;ii#%=;i+==****===**=+i;iiiii;;;;';;':==*===***==i</text>
+<text class="r" x="16" y="487" style="animation-delay:2.25s">iii;;;::;:;i+#%=:i+========+i;;:::'''';ii++::i::===========+</text>
+<text class="r" x="16" y="498" style="animation-delay:2.3s">+++=;;;;::::x##*;i++=====+ii++==+++iiiiiiii;'::i=+++===+++==</text>
+<rect id="cur" x="16" y="501" width="6" height="10"/>
+</svg>
