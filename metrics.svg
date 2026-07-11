@@ -115,12 +115,12 @@
 <text x="330" y="84" font-size="11" fill="#5c7ea8">languages · public repos by bytes</text>
 <text x="330" y="111" font-size="11" fill="#d5e6fb">HTML</text>
 <rect x="450" y="102" width="320" height="11" rx="5" fill="#16233d"/>
-<rect x="450" y="102" width="197" height="11" rx="5" fill="#e34c26"/>
-<text x="778" y="111" font-size="10" fill="#8fb6dd">61.7%</text>
+<rect x="450" y="102" width="198" height="11" rx="5" fill="#e34c26"/>
+<text x="778" y="111" font-size="10" fill="#8fb6dd">61.8%</text>
 <text x="330" y="136" font-size="11" fill="#d5e6fb">Python</text>
 <rect x="450" y="127" width="320" height="11" rx="5" fill="#16233d"/>
 <rect x="450" y="127" width="71" height="11" rx="5" fill="#3572A5"/>
-<text x="778" y="136" font-size="10" fill="#8fb6dd">22.2%</text>
+<text x="778" y="136" font-size="10" fill="#8fb6dd">22.1%</text>
 <text x="330" y="161" font-size="11" fill="#d5e6fb">Swift</text>
 <rect x="450" y="152" width="320" height="11" rx="5" fill="#16233d"/>
 <rect x="450" y="152" width="52" height="11" rx="5" fill="#F05138"/>
