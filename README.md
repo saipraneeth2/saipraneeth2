@@ -25,6 +25,7 @@
 
 | Project | About |
 | --- | --- |
+| [**E3 Pro AI Studio**](https://github.com/saipraneeth2/E3ProAIStudio) | Read-only macOS Bluetooth diagnostics app for a Segway Ninebot E3 Pro scooter, live-tested on my own scooter. Built with AI assistance. `Swift · SwiftUI` |
 | [**OpsIQ**](https://github.com/saipraneeth2/OpsIQ) | In development: operations platform designed to reconcile POS sales against end-of-day cash, flag unbilled sales and cash discrepancies, and send multi-store owners a nightly KPI summary. `Python` |
 | [**SheSafe (watchOS)**](https://github.com/saipraneeth2/SheSafe_WatchOS) | Apple Watch women's-safety app: three quick Digital Crown flicks trigger an emergency SOS call after a 5-second haptic countdown. `Swift · SwiftUI` |
 | [**saipraneeth2.github.io**](https://github.com/saipraneeth2/saipraneeth2.github.io) | Portfolio site and resume, live at <a href="https://saipraneeth2.github.io">saipraneeth2.github.io</a>. `HTML` |
